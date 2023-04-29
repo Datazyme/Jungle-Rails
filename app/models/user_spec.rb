@@ -1,0 +1,2 @@
+class UserSpec < ApplicationRecord
+end
